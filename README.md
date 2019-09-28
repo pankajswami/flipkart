@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 ## [Flipkart](https://www.flipkart.com/?affid=pankajswa) 
-Big Billion days are started 
-### [checkout](https://www.flipkart.com/?affid=pankajswa) to get the exclusive deals of flipkart on
+Big Billion days are started [checkout](https://www.flipkart.com/?affid=pankajswa) to get the exclusive deals of flipkart on
 ### [Flipkart App](http://affiliate.flipkart.com/install-app?affid=pankajswa)
 
 ### Jekyll Themes
